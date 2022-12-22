@@ -39,7 +39,7 @@ if auto == 1 or auto == 2 or auto == 3 or auto == 4:
 
     Views = 0
     Hearts = 0
-    Followers = 0
+    Followers = 1000
 
 def beautify(arg):
     return format(arg, ',d').replace(',', '.')
